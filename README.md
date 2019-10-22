@@ -19,7 +19,7 @@ List all the features of your application in the order of priority.
 
 ## Team members
 
-* Andrew Hogan, Client-server and sock programming
+* Andrew Hogan, Client-server and socket programming
 * J Tarness, Webscraping and building databases for information
 * Duoduo Xu, Front end and GUI developer
 
