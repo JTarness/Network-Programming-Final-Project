@@ -5,7 +5,7 @@ Our project is webscraping stock market data and then in turn using that data to
 
 ## Deliverables
 
-1) Webscrapper made with the Selenium libraray.
+1)Webscrapper made with the Selenium library.
 2)Socket programming to connect data from server to the client.
 3)Text message/email socket to send the data to the users
 
