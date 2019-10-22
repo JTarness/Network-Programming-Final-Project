@@ -13,7 +13,7 @@ Our project is webscraping stock market data and then in turn using that data to
 List all the features of your application in the order of priority.
 1. Text users information about stock tips
 2. Find users the best platforms to invest in that cost the least amount of money.
-3. Create investing groups based on investing prefences.
+3. Create investing groups based on investing preferences.
 4. Provide up to date, reliable, and consistent stock information to both experienced and prospective investors 
 ...
 
