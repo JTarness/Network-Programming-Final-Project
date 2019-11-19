@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Registration</title>
+<link rel="stylesheet" type="text/css" href="css/registFormat.css"/>
+<script src="jQuery_js/jquery-1.11.1.js"></script>
+<script src="jQuery_js/jquery.validate.min.js"></script>
+<script src="jQuery_js/messages_zh.js"></script>
+<script src="jQuery_js/additional-methods.min.js"></script>
+</head>
+<body>
+<div class="logo">
+<img src="">
+</div>
+<div id="main">
+	<div class="regist">Welcome</div>
+		<form action="/registServlet"
+		 method = "post" id = "RegistForm">
+		<div class="input-data">
+			<img class="username-icon" src="img/usernameicon.jpg">
+			<input type = "text" id = "username" name = "username" placeholder="username"/>
+		</div>
+			<p>input 3-13 characters</p>
+		<div class="input-data">
+			<img class="phone-icon" src="img/phoneicon.jpg"/>
+			<input type = "text" id = "phoneNum" name = "phoneNum" placeholder="phone number"/>
+		</div>
+			<p>input your phone number</p>
+		<div class="input-data">
+			<img class="password-icon" src="img/passwordicon.jpg">
+			<input type = "password" id = "password" name = "password" placeholder="password"/>
+		</div>	
+			<p>input 5-15 characters</p>
+		<div class="input-data">
+			<img class="rpsw-icon" src="img/rpswicon.jpg">
+			<input type = "password" id = "rpsw" name = "rpsw" placeholder="re-password"/>
+		</div>
+			<p>ensure password</p>
+			<input type = "submit" value = "Submit"/>
+		<div class="jump">
+			<a href="login.jsp">Login</a>
+		</div>
+		</form>
+		<script>
+		$('#RegistForm').validate({
+			rules:{
+				username:{
+					required:true,
+					minlength:3,
+					maxlength:13
+				},
+				phoneNum:{
+					required:true,
+					minlength:11,
+				},
+				password:{
+					required:true,
+					minlength:5,
+					maxlength:15
+				},
+				rpsw:{
+					required:true,
+					equalTo:"#password"
+				}
+			},
+			messages:{
+				username:{
+					required:"*please input username",
+					minlength:"*at less 3 characters",
+					maxlength:"*at most 13 characters"
+				},
+				phoneNum:{
+					required:"*please input phone number",
+					minlength:"*phone number is not correct",
+				},
+				password:{
+					required:"*please input password",
+					minlength:"*at less 5 characters",
+					maxlength:"*at most 15 character"
+				},
+				rpsw:{
+					required:"*please input password",
+					equalTo:"*password should be same",
+				}
+			}
+		})
+		</script>
+	</div>
+</body>
+</html>
