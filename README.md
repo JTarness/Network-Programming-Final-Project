@@ -13,7 +13,7 @@ This project aims to perform web scraping of stock market data using an Alpaca T
 After entering profile information, the user will then begin receiving emails with stock updates and tips
 5. In the future, the application will also ask each user at registration if they are interested in being placed in an investing group based on investing preferences 
 
-Run
+<b>Run</b>
 
 ## Features 
 1. Directly email users information about stock tips and insights 
