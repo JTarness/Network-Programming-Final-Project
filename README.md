@@ -4,7 +4,7 @@
 This project aims to perform web scraping of stock market data using an Alpaca Trade API to in turn use that data to send email messages to users about stock market tips and insights within a network program. An overarching goal is to provide up to date, reliable, and consistent stock information to both experienced and prospective investors. All users of the program should find use in the information provided.
 
 ## Getting Started
-Install
+#Install
 
 1. The client will access the application that is running on a virtual machine through a web browser which will have access to both API’s.
 2. The web server directly communicates with the Alpaca Trade API that holds stock information and eventually formats emails to the user
@@ -13,7 +13,7 @@ Install
 After entering profile information, the user will then begin receiving emails with stock updates and tips
 5. In the future, the application will also ask each user at registration if they are interested in being placed in an investing group based on investing preferences 
 
-Run
+#Run
 
 ## Features 
 1. Directly email users information about stock tips and insights 
