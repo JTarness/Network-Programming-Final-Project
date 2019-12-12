@@ -23,9 +23,11 @@ After entering profile information, the user will then begin receiving emails wi
 5. Users log into a full website as a place to gain more details from the information sent to them
 
 ## Demo Video
-
+https://youtu.be/s91rMoWCjlI
 ## References
+Making API- https://www.youtube.com/watch?v=Of1IcjpGNNg
 
+JSON-https://www.w3schools.com/python/python_json.asp
 ## Team members
 
 * Andrew Hogan, Client-server and socket programming
