@@ -37,6 +37,8 @@ https://youtu.be/s91rMoWCjlI
 Making API- https://www.youtube.com/watch?v=Of1IcjpGNNg
 
 JSON-https://www.w3schools.com/python/python_json.asp
+
+CSS - https://www.w3schools.com/css/
 ## Team members
 
 * Andrew Hogan, Client-server programming (particularly python server development)
