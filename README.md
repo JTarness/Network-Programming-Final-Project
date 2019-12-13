@@ -17,6 +17,7 @@ After entering profile information, the user will then begin receiving emails wi
 1. Open the APO folder and run APO application (this starts the API)
 2. Open the registration page file and add credentials
 3. Run PythonServer.py through terminal or direcly in an IDE supporting the file
+4. Check all folders of email regularly for updated stock insight alerts 
 
 ## Features 
 1. Directly email users information about stock tips and insights 
