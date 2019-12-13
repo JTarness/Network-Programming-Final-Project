@@ -15,6 +15,10 @@ After entering profile information, the user will then begin receiving emails wi
 
 <b>Run</b>
 
+Open the APO folder and run APO application(thi starts the API)
+Open the register file and add credentials
+Run PythonServer.py
+
 ## Features 
 1. Directly email users information about stock tips and insights 
 2. Users are provided with the best platforms to invest in with the least cost 
