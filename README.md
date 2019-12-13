@@ -14,10 +14,9 @@ After entering profile information, the user will then begin receiving emails wi
 5. In the future, the application will also ask each user at registration if they are interested in being placed in an investing group based on investing preferences 
 
 <b>Run</b>
-
-Open the APO folder and run APO application(thi starts the API)
-Open the register file and add credentials
-Run PythonServer.py
+1. Open the APO folder and run APO application (this starts the API)
+2. Open the register file and add credentials
+3. Run PythonServer.py through terminal or direcly 
 
 ## Features 
 1. Directly email users information about stock tips and insights 
