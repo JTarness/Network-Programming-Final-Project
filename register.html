@@ -19,7 +19,7 @@
 		 method = "post" id = "RegistForm">
 		<div class="input-data">
 			<img class="username-icon" src="img/usernameicon.jpg">
-			<input type = "text" id = "username" name = "username" placeholder="username"/>
+			<input type = "text" id = "username" name = "username" placeholder="email address"/>
 		</div>
 			<p>input 3-13 characters</p>
 		<div class="input-data">
@@ -47,8 +47,6 @@
 			rules:{
 				username:{
 					required:true,
-					minlength:3,
-					maxlength:13
 				},
 				phoneNum:{
 					required:true,
@@ -66,9 +64,7 @@
 			},
 			messages:{
 				username:{
-					required:"*please input username",
-					minlength:"*at less 3 characters",
-					maxlength:"*at most 13 characters"
+					required:"*please input email address",
 				},
 				phoneNum:{
 					required:"*please input phone number",
