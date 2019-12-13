@@ -15,7 +15,7 @@ After entering profile information, the user will then begin receiving emails wi
 
 ## Running the Application
 1. Open the APO folder and run APO application (this starts the API)
-2. Open the register file and add credentials
+2. Open the registration page file and add credentials
 3. Run PythonServer.py through terminal or direcly 
 
 ## Features 
