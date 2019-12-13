@@ -32,6 +32,7 @@ After entering profile information, the user will then begin receiving emails wi
 
 ## Demo Video
 https://youtu.be/s91rMoWCjlI
+  -due to recording the video using screen recording on Linux, accompanying audio is not supported
 ## References
 Making API- https://www.youtube.com/watch?v=Of1IcjpGNNg
 
