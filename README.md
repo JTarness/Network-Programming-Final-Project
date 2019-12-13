@@ -38,7 +38,7 @@ Making API- https://www.youtube.com/watch?v=Of1IcjpGNNg
 JSON-https://www.w3schools.com/python/python_json.asp
 ## Team members
 
-* Andrew Hogan, Client-server and socket programming
+* Andrew Hogan, Client-server programming (particularly python server development)
 * J Tarness, Webscraping and building databases for information
 * Duoduo Xu, Front end and GUI developer
 
