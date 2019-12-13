@@ -7,8 +7,8 @@ An overarching goal is to provide up to date, reliable, and consistent stock inf
 
 Prior experience with the stock market is not necessary as all users will be provided with information on the percent change of a variety of stocks in each subsequent email update.
 
-## Getting Started
-## Registration
+# Getting Started
+# Registration
 
 1. The client will access the application that is running on a virtual machine through a web browser which will have access to both API’s.
 2. The web server directly communicates with the Alpaca Trade API that holds stock information and eventually formats emails to the user
