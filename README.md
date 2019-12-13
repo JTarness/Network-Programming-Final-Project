@@ -1,7 +1,11 @@
 # DolFin Technology
 
 ## Description
-This project aims to perform web scraping of stock market data using an Alpaca Trade API to in turn use that data to send email messages to users about stock market tips and insights within a network program. An overarching goal is to provide up to date, reliable, and consistent stock information to both experienced and prospective investors. All users of the program should find use in the information provided.
+This project aims to perform web scraping of stock market data using an Alpaca Trade API to in turn use that data to send email messages to users about stock market tips and insights within a network program. 
+
+An overarching goal is to provide up to date, reliable, and consistent stock information to both experienced and prospective investors. All users of the program should find use in the information provided.
+
+Prior experience with the stock market is not necessary as all users will be provided with information on the percent change of a variety of stocks in each subsequent email update.
 
 ## Getting Started
 ## Registration
