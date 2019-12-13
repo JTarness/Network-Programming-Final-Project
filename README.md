@@ -7,7 +7,7 @@ An overarching goal is to provide up to date, reliable, and consistent stock inf
 
 Prior experience with the stock market is not necessary as all users will be provided with information on the percent change of a variety of stocks in each subsequent email update.
 
-### Getting Started
+## Getting Started
 ### Registration
 
 1. The client will access the application that is running on a virtual machine through a web browser which will have access to both API’s.
@@ -17,7 +17,7 @@ Prior experience with the stock market is not necessary as all users will be pro
 After entering profile information, the user will then begin receiving emails with stock updates and tips
 5. In the future, the application will also ask each user at registration if they are interested in being placed in an investing group based on investing preferences 
 
-## Running the Application
+### Running the Application
 1. Open the APO folder and run APO application (this starts the API)
 2. Open the registration page file and add credentials
 3. Run PythonServer.py through terminal or direcly in an IDE supporting the file
